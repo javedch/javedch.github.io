@@ -6,13 +6,13 @@
     <description>Recent content in My New Website on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://jayc.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://jayc.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mapping NHS Vaccine Centres</title>
-      <link>http://jayc.me/2021/07/14/mapping-nhs-vaccine-centres/</link>
-      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <link>http://jayc.me/2022/07/14/mapping-nhs-vaccine-centres/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://jayc.me/2021/07/14/mapping-nhs-vaccine-centres/</guid>
+      <guid>http://jayc.me/2022/07/14/mapping-nhs-vaccine-centres/</guid>
       <description>The NHS website does not display vaccine centres on a map. How can I know what centres are near me? Answer: scrape the centres and display them all. This does require you to know where you are on a map, but for now, it’s much nicer to visualise.</description>
     </item>
     
