@@ -13,7 +13,8 @@
       <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>http://jayc.me/2022/07/14/mapping-nhs-vaccine-centres/</guid>
-      <description>The NHS website does not display vaccine centres on a map. How can I know what centres are near me? Answer: scrape the centres and display them all. This does require you to know where you are on a map, but for now, it’s much nicer to visualise.</description>
+      <description>The NHS website does not display vaccine centres on a map. How can I know what centres are near me? Answer: scrape the centres and display them all. This does require you to know where you are on a map, but for now, it’s much nicer to visualise.
+&lt;!DOCTYPE html&gt;vaccine</description>
     </item>
     
     <item>
