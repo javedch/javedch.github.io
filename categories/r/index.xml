@@ -14,7 +14,7 @@
       
       <guid>http://jayc.me/2021/07/14/mapping-nhs-vaccine-centres/</guid>
       <description>The NHS website does not display vaccine centres on a map. How can I know what centres are near me? Answer: scrape the centres and display them all. This does require you to know where you are on a map, but for now, it’s much nicer to visualise.
-## Warning: package &amp;#39;leaflet&amp;#39; was built under R version 4.2.1</description>
+## Warning: package &amp;#39;leaflet&amp;#39; was built under R version 4.2.1## ## Attaching package: &amp;#39;dplyr&amp;#39;## The following objects are masked from &amp;#39;package:stats&amp;#39;:## ## filter, lag## The following objects are masked from &amp;#39;package:base&amp;#39;:## ## intersect, setdiff, setequal, union</description>
     </item>
     
     <item>
